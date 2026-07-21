@@ -9,6 +9,7 @@ Developed exploded view and assembly animation to demonstrate working principles
 Prepared detailed engineering drawings with dimensions and annotations.
 
 Tools: SolidWorks, Assembly, Motion Study, Drawing, Mass Properties\
+<img width="775" height="652" alt="image" src="https://github.com/user-attachments/assets/7adb91b8-8314-4de6-b646-7a69964daa30" />
 
 
 ## 4-Cylinder Inline Piston Engine Assembly
