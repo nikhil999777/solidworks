@@ -10,6 +10,7 @@ Prepared detailed engineering drawings with dimensions and annotations.
 
 Tools: SolidWorks, Assembly, Motion Study, Drawing, Mass Properties\
 
+
 ## 4-Cylinder Inline Piston Engine Assembly
 
 Modeled a 4-cylinder piston engine with standard engineering dimensions.\
@@ -39,7 +40,7 @@ Generated production-ready engineering drawings.
 Tools: Surface Modeling, Sheet Features, Solid Modeling
 
 ## Mechanical Fasteners and Shaft Coupling Components
-Designed standard machine elements according to ISO standards:\
+Designed standard machine elements according to ISO standards:
 
 Hex Bolts\
 Hex Nuts\
@@ -50,7 +51,7 @@ Knuckle Joint\
 Rigid Flange Coupling\
 Socket Head Cap Screw\
 Split Pin\
-Keys\
+Keys
 
 Performed:
 
