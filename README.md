@@ -18,7 +18,7 @@ Performed mass, volume, and center of gravity analysis.\
 Created kinematic animation of piston, crankshaft, and valve mechanism.\
 Generated manufacturing drawings with GD&T-ready dimensions.
 
-Tools: SolidWorks Assembly, Motion Study, Engineering Drawings\
+Tools: SolidWorks Assembly, Motion Study, Engineering Drawings
 
 ## Helical Bevel Gear Design
 
@@ -27,7 +27,7 @@ Created accurate tooth geometry and assembly for power transmission.\
 Verified interference and alignment using assembly tools.\
 Generated technical drawings suitable for manufacturing.
 
-Tools: SolidWorks, Mechanical Design, Gear Modeling\
+Tools: SolidWorks, Mechanical Design, Gear Modeling
 
 ## Steel Bottle with Complex Surface Geometry
 
@@ -36,6 +36,25 @@ Applied loft, sweep, shell, fillet, and surface operations.\
 Optimized wall thickness and calculated material volume and mass.\
 Generated production-ready engineering drawings.
 
-Tools: Surface Modeling, Sheet Features, Solid Modeling\
+Tools: Surface Modeling, Sheet Features, Solid Modeling
 
+## Mechanical Fasteners and Shaft Coupling Components
+Designed standard machine elements according to ISO standards:\
 
+Hex Bolts\
+Hex Nuts\
+Washers\
+Stud Bolts\
+Cotter Joint\
+Knuckle Joint\
+Rigid Flange Coupling\
+Socket Head Cap Screw\
+Split Pin\
+Keys\
+
+Performed:
+
+Parametric modeling\
+Standard dimensioning\
+Assembly creation\
+Engineering drawing generation
